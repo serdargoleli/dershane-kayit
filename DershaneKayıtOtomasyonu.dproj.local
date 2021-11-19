@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.199,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.473,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\DershaneKayıtOtomasyonu.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.748,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.907,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\serda\Documents\Embarcadero\Studio\Projects\Dershane Kayıt Otomasyonu\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>
